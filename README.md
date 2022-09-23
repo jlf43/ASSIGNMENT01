@@ -1,7 +1,8 @@
 ASSIGNMENT01
 
 OUTPUT: 
-![Screenshot 2022-09-23 150025](https://user-images.githubusercontent.com/98352284/192047801-b638d21f-15b2-454a-b7f1-8bedf097fb3b.jpg)
+![ss](https://user-images.githubusercontent.com/98352284/192048548-09dd803a-9622-4eb5-ad56-035f7455b5d4.jpg)
+
 
 INSTRUCTIONS:
 - the user will be able to see the array with 100 elements in it.
