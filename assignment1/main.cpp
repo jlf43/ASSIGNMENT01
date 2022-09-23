@@ -74,7 +74,7 @@ int main()
     cout << endl;
     add_element(user, add, count);
     display(user, count);
-    cout << endl;
+    cout << endl << endl;
     
     //Testing for the position where the user wants to switch the values with the new one: change_val()
     int pos_value, newVal;
